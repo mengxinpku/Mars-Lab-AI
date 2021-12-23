@@ -1,12 +1,8 @@
 ## Welcome to Mars Lab
 
-You can use the [editor on GitHub](https://github.com/mengxinpku/mengxin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Outline
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 # 周末课程安排
@@ -39,12 +35,19 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://ibb.co/qxZtbsF) and ![Image](https://ibb.co/qxZtbsF)
+[Link](https://ibb.co/qxZtbsF) and ![Steven](https://i.ibb.co/rvWCn6f/Wechat-IMG870.jpg  <a href="https://ibb.co/qxZtbsF"><img src="https://i.ibb.co/rvWCn6f/Wechat-IMG870.jpg" alt="Wechat-IMG870" border="0"></a>)
 ```
 
-<a href="https://ibb.co/qxZtbsF"><img src="https://i.ibb.co/rvWCn6f/Wechat-IMG870.jpg" alt="Wechat-IMG870" border="0"></a>
+
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+You can use the [editor on GitHub](https://github.com/mengxinpku/mengxin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Jekyll Themes
 
