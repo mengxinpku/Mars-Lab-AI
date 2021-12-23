@@ -23,8 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://ibb.co/qxZtbsF) and ![Image](https://ibb.co/qxZtbsF)
 ```
+
+<a href="https://ibb.co/qxZtbsF"><img src="https://i.ibb.co/rvWCn6f/Wechat-IMG870.jpg" alt="Wechat-IMG870" border="0"></a>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
